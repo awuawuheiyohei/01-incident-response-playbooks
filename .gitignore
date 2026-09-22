@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Env
+.env
+.env.local
+
+# DB
+data/*.db
+data/*.db-journal
+data/rca/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# 测试产物
+.pytest_cache/
+htmlcov/
+*.log
