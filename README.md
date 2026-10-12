@@ -154,7 +154,7 @@ python main.py rca INC-XXXXXXXX --business-impact "影响 X 名工程师 Y 小�
 
 ## 📝 来源
 
-本项目基于 `/Users/jiangwenrui/Downloads/mass/Interview/Security_and_GRC_14_Projects_Plan/01_Security_Incident_Response_Playbooks.md` 完整规划落地。
+本项目基于 `/Users/jiangwenrui/Downloads/mass/25-Interview/Security_and_GRC_14_Projects_Plan/01_Security_Incident_Response_Playbooks.md` 完整规划落地。
 
 ---
 
